@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @GXFS11; y'all can call me Alexis
-- 👀 I’m interested in videogames, front-end
+- 👋 Hi, I’m @GXFS11; you can call me Alexis
+- 👀 I’m interested in videogames, software and web development, front-end, back-end. Espacially in technologies like Node.js, Spring and Angular.
 - 🌱 I’m currently learning with TheOdinProject
-- 💞️ I’m looking to collaborate on a kinda simple Java project
+- 💞️ I’m looking to collaborate on a Java project or a web "vanilla" JavaScript project
 - 📫 How to reach me: On this acc.
-
-<!---
-GXFS11/GXFS11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
